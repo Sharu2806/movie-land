@@ -21,6 +21,12 @@ A simple SPA to search movies and TV shows.
     - Rating
    
 # Responsive - 80%
+
+# How to clone it 
+  - Clone repository from
+  - use node 18
+  - install node_modules using `npm i --legacy-peer-deps`
+  - Run `npm run start`
     
   
   
